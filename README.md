@@ -6,7 +6,7 @@ The code demonstrates how to set up a simple backend with CRUD operations, layer
 
 ⸻
 
-What I Learned
+What I Learned:
 	•	Setting up a Spring Boot project with Maven/Gradle
 	•	Creating RESTful endpoints with @RestController
 	•	Handling requests and responses with Spring MVC
@@ -16,7 +16,7 @@ What I Learned
 
 ⸻
 
-Tech Stack
+Tech Stack:
 	•	Java 17
 	•	Spring Boot (Web, Data JPA)
 	•	Maven
